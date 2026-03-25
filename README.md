@@ -1,2 +1,2 @@
 # time-series-forecasting
-This repo contains the data and notebook for running the multivariate time series forecasting
+This repo contains the data and notebooks for running the multivariate time series forecasting and churn analysis
